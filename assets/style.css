@@ -44,12 +44,6 @@ header {
   color: #c7d2fe;
 }
 
-.logo h1 {
-  margin: 0;
-  font-size: 1.6rem;
-  font-weight: 600;
-  letter-spacing: 0.5px;
-}
 
 /* ===== Search Bar ===== */
 .search-container {
